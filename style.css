@@ -1,0 +1,19 @@
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    background-color: grey;
+}
+
+#list1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#list2 {
+    font-weight: bold;
+}
+
+#list3 {
+    background-color: azure;
+
+}
