@@ -1,19 +1,48 @@
 .header {
+    margin: 8px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 50px;
     background-color: grey;
 }
 
-#list1 {
+a {
     font-family: 'Courier New', Courier, monospace;
+    color: red;
+    
+}
+
+a {
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover{
+    background-color: white;
+  }
+  
+#list1 {
+    text-align: center;
+    margin: 8px auto;
+    padding: 10px;
+    background-color: lightyellow;
 }
 
 #list2 {
+    text-align: center;
+    margin: 8px auto;
+    padding: 10px;
     font-weight: bold;
+    background-color:lightcoral;
 }
 
 #list3 {
-    background-color: azure;
+    text-align: center;
+    margin: 8px auto;
+    padding: 10px;
+    background-color: brown;
 
 }
